@@ -1,0 +1,14 @@
+#twitter
+twitter:
+    #Define Keys
+    consumer_key : 'xxxx'
+    consumer_secret : 'xxxx'
+    # Access:
+    access_token : 'xxxx'
+    access_secret : 'xxxx'
+    # Bearer:
+    bearer_token : 'xxxx'
+    username: "@name"
+
+project:
+  name: "xxxx"
