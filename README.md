@@ -10,4 +10,5 @@ To use it:
     7. Tag the account from other account on twitter and say "draw me" and check the result.
     8. play with the prompt generator of the image on image_generator.py to change the results of the images and the styles.
 
+.
     Thanks for reading.
